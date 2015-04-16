@@ -9,7 +9,7 @@
         "issues": "https://github.com/samdark/yii2-minimal/issues?state=open",
         "source": "https://github.com/samdark/yii2-minimal"
     },
-    "minimum-stability": "dev",
+    "minimum-stability": "stable",
     "require": {
         "yiisoft/yii2": "*"
     },
